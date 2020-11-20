@@ -1,0 +1,43 @@
+body {
+    background-color: LightCyan;
+    height: 100vh;
+}
+
+header {
+    position: fixed;
+    width: 100%;
+}
+
+.containerPai {
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img {
+    width: 50%;
+}
+
+form {
+    width: 50%;
+}
+
+.cimg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer {
+    bottom: 0;
+    
+    width: 100%;
+    text-align: center;
+    background-color: cadetblue;
+}
+
+.mussum {
+    margin: 50px;
+    text-align: justify;
+}
